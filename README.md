@@ -1,4 +1,5 @@
 **Fast Fashion Transparency - Dağıtık Sistemler Projesi**
+
 🎯 **Proje Özeti**
 Fast Fashion Transparency, tekstil endüstrisindeki üretim süreçlerinin şeffaflığını ve izlenebilirliğini sağlamak amacıyla geliştirilmiş, blockchain tabanlı bir dağıtık sistem projesidir. Bu proje, üretim süreçlerinin güvenli, şeffaf ve değiştirilemez bir şekilde kaydedilmesini sağlayarak, tedarik zincirindeki tüm paydaşlar için güvenilir bir veri kaynağı oluşturmayı hedeflemektedir.
 
