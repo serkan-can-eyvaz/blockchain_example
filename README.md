@@ -6,24 +6,43 @@ Fast Fashion Transparency, tekstil endüstrisindeki üretim süreçlerinin şeff
 **Sistem Mimarisi**
 **Teknoloji Stack'i
 Backend**
+
 **Framework**: Spring Boot
+
 **Veritabanı**: PostgreSQL
+
 **ORM**: Hibernate
+
 **API**: RESTful
+
 **Güvenlik**: Spring Security
+
 **Frontend**
+
 **Framework**: React
+
 **State Yönetimi**: Redux
+
 **UI Kütüphanesi:** Material-UI
+
 **HTTP Client**: Axios
+
 **Blockchain**
+
 **Dil**: Python
+
 **Veri Yapısı:** Merkle Tree
+
 **Konsensüs:** Proof of Work
+
 **DevOps**
+
 **Container:** Docker
+
 **Orkestrasyon**: Docker Compose
+
 CI/CD: GitHub Actions
+
 Monitoring: Prometheus & Grafana
 🚀 Özellikler
 1. Dağıtık Sistem Mimarisi
