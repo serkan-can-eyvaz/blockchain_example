@@ -1,0 +1,13 @@
+package com.textile.entity;
+
+public enum ProductStatus {
+    HAMMADDE,
+    URETIM_ASAMASINDA,
+    URETIM_TAMAMLANDI,
+    KALITE_KONTROL,
+    DEPOYA_ALINDI,
+    DAGITIMA_HAZIR,
+    DAGITIMDA,
+    PERAKENDE_SATIS,
+    SATIS_TAMAMLANDI
+} 
